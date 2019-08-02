@@ -6,7 +6,7 @@ the source from [pyimagesearch OpenCV Object Tracking](https://www.pyimagesearch
 
 ```bash
 pip3 install opencv-contrib-python
-pip3 install opencv-python 
+pip3 install opencv-python imutils
 ```
 
 # Usage
